@@ -60,7 +60,7 @@
 	- [ ] Přidat sitemap.xml
 	- [ ] Propojit Google Analytics a Search Console profily (v Google Analytics)
 
-### Vyhledáváče
+### Vyhledávače
 - [ ] Podstrčit web Seznam.cz (http://search.seznam.cz/pridej-stranku)
 
 ### Ostatní
